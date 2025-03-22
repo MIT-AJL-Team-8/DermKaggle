@@ -91,22 +91,33 @@ epoch_list = [45]
 img_sizes = [224]
 ```
 
-Using this configuration, we improved our final model’s accuracy to [TODO final accuracy]%, a significant boost from our initial baseline. We used an 80/20 train-validation split and relied on top-1 accuracy as our primary evaluation metric throughout the tuning process.
+Using this configuration, we improved our final model’s accuracy to 68%, a significant boost from our initial baseline. We used an 80/20 train-validation split and relied on top-1 accuracy as our primary evaluation metric throughout the tuning process.
 
 ---
 
 ## **📈 Results & Key Findings**
 
-**Describe (as applicable):**
+## Results & Key Findings
 
-* Performance metrics (e.g., Kaggle Leaderboard score, F1-score)
-* How your model performed overall
-* How your model performed across different skin tones (AJL)
-* Insights from evaluating model fairness (AJL)
+Our final model, trained with `yolov11x-cls.pt`, achieved significant improvements over the baseline. Below are key performance visualizations and outputs used during evaluation.
 
-**Potential visualizations to include:**
+### Performance Metrics
 
-* Confusion matrix, precision-recall curve, feature importance plot, prediction distribution, outputs from fairness or explainability tools
+![Confusion Matrix](img/confusion_matrix.png)  
+![Normalized Confusion Matrix](img/confusion_matrix_normalized.png)  
+![Final Results Summary](img/results_final.png)
+
+### Training Batch Visualizations
+
+<div align="center"> <img src="img/train_batch0.jpg" width="200"/> <img src="img/train_batch1.jpg" width="200"/> <img src="img/train_batch2.jpg" width="200"/> </div> <div align="center"> <img src="img/train_batch5005.jpg" width="200"/> <img src="img/train_batch5006.jpg" width="200"/> <img src="img/train_batch5007.jpg" width="200"/> </div>
+
+### Validation Ground Truth
+
+<div align="center"> <img src="img/val_batch0_labels.jpg" width="200"/> <img src="img/val_batch1_labels.jpg" width="200"/> <img src="img/val_batch2_labels.jpg" width="200"/> </div>
+
+### Validation Predictions
+
+<div align="center"> <img src="img/val_batch0_pred.jpg" width="200"/> <img src="img/val_batch1_pred.jpg" width="200"/> <img src="img/val_batch2_pred.jpg" width="200"/> </div>
 
 ---
 
