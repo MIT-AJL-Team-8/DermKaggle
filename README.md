@@ -10,7 +10,7 @@
 | Blair Kuzniarek | @bkuzniarek |  |
 | Khushi Rajoria | @krajoria |  |
 | Michaela Fox | @mfox0914 |  |
-| Sevinch Noori | @sevinchnoori | building + training of ExCeption model, parts of ReadMe |
+| Sevinch Noori | @sevinchnoori | Building + training of ExCeption model, parts of ReadMe |
 
 ---
 
