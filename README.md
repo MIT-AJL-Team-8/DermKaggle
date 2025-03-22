@@ -1,17 +1,13 @@
 # DermKaggle
-# GitHub Kaggle Project README Template
-
-⚠️ _Remember to update the above title and remove all guidance notes and examples in this template, before finalizing your README_
-
 ---
 
 ### **👥 Team Members**
 
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
-| Alice Doe | @AliceDoe | Built CNN model, performed data augmentation |
-| Mel Ramakrishnan | @MelRam | Led EDA, visualized dataset distributions, handled missing data |
-| Charlie Nguyen | @CharlieN | Implemented explainability tools |
+| Sevinch Noori | @sevinchnoori |  |
+|  |  |  |
+|  |  |  |
 
 ---
 
