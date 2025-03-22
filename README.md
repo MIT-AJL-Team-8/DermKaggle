@@ -24,8 +24,6 @@
 * Implemented \[data preprocessing method\] to optimize results within compute constraints
 
 🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
-🔗 [WiDS Datathon 2025 | Kaggle Competition Page](https://www.kaggle.com/competitions/widsdatathon2025/overview)
-
 ---
 
 ## **👩🏽‍💻 Setup & Execution**
