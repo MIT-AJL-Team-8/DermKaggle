@@ -86,7 +86,7 @@ img_sizes = [128, 224]
 Each model was evaluated using metrics such as top-1 accuracy, precision, recall, and validation loss curves. Based on the analysis, we selected the best-performing configuration:
 
 ```{python}
-	model_sizes = [“yolo11x-cls.pt”]
+model_sizes = [“yolo11x-cls.pt”]
 epoch_list = [45]
 img_sizes = [224]
 ```
