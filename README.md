@@ -52,6 +52,10 @@ The dataset used is a subset of the FitzPatrick17k dataset, a labeled set of ~17
 
 **Potential visualizations to include:**
 ![New Note](https://github.com/user-attachments/assets/319728a6-5720-45b7-8e92-5101f7694dbf)
+![New Note](https://github.com/user-attachments/assets/0e6f1cd0-d284-4516-a5a6-4d6054905dfd)
+![New Note](https://github.com/user-attachments/assets/c91b875a-d98c-4fc5-a3d6-0677d7c86274)
+
+
 
 ---
 
