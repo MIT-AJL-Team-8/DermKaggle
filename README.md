@@ -63,7 +63,7 @@ The dataset used is a subset of the FitzPatrick17k dataset, a labeled set of ~17
 
 **Describe (as applicable):**
 
-* Model(s) used (e.g., CNN with transfer learning, regression models)
+* CNN with Ultralytic's YOLO 
 * Feature selection and Hyperparameter tuning strategies
 * Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
 
