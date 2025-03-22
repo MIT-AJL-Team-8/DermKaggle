@@ -73,11 +73,25 @@ The dataset used is a subset of the FitzPatrick17k dataset, a labeled set of ~17
 
 ## **🧠 Model Development**
 
-**Describe (as applicable):**
+We initially experimented with a branched, multi-input model architecture, forming our first submission's basis. However, this approach yielded a low accuracy of approximately 5%. In response, we pivoted to a single-input image classification model using Ultralytics’ YOLOv8 classification pipeline.
+YOLO (You Only Look Once) is a real-time, deep learning-based object detection and classification algorithm that processes an entire image in a single forward pass to simultaneously predict class labels and bounding boxes with high speed and accuracy.
+Since YOLO operates directly on image inputs, our feature selection strategy focused exclusively on visual data, ignoring any auxiliary metadata. We began with the default Ultralytics hyperparameters and achieved a baseline accuracy of 67%.
+To improve performance, we conducted a structured hyperparameter sweep across the following parameters:
+```{python}
+model_sizes = ["yolo11n-cls.pt", "yolo11s-cls.pt", "yolo11m-cls.pt", “yolo11x-cls.pt”]
+epoch_list = [30, 50]
+img_sizes = [128, 224]
+```
 
-* CNN with Ultralytic's YOLO 
-* Feature selection and Hyperparameter tuning strategies
-* Training setup (e.g., % of data for training/validation, evaluation metric, baseline performance)
+Each model was evaluated using metrics such as top-1 accuracy, precision, recall, and validation loss curves. Based on the analysis, we selected the best-performing configuration:
+
+```{python}
+	model_sizes = [“yolo11x-cls.pt”]
+epoch_list = [45]
+img_sizes = [224]
+```
+
+Using this configuration, we improved our final model’s accuracy to [TODO final accuracy]%, a significant boost from our initial baseline. We used an 80/20 train-validation split and relied on top-1 accuracy as our primary evaluation metric throughout the tuning process.
 
 ---
 
