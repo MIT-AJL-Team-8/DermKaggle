@@ -51,8 +51,7 @@ The dataset used is a subset of the FitzPatrick17k dataset, a labeled set of ~17
 * Challenges and assumptions when working with the dataset(s)
 
 **Potential visualizations to include:**
-
-* Plots, charts, heatmaps, feature visualizations, sample dataset images
+![New Note](https://github.com/user-attachments/assets/319728a6-5720-45b7-8e92-5101f7694dbf)
 
 ---
 
