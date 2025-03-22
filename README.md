@@ -40,11 +40,7 @@
 
 ## **🏗️ Project Overview**
 
-**Describe:**
-
-* The Kaggle competition and its connection to the Break Through Tech AI Program
-* The objective of the challenge
-* The real-world significance of the problem and the potential impact of your work
+This Kaggle competition was presented through a collaboration between Break Through Tech and the Algorithmic Justice League for students to build a machine learning model that classifies skin conditions across various skin tones in order to “advance equity by centering those historically excluded in AI” and avoid diagnostic errors, late treatments, and health disparities for underserved groups. The Algorithmic Justice League is “an organization that combines art and research to illuminate the social implications and harms of artificial intelligence”. Their mission to increase public awareness about the effects of AI, provide advocates with resources to run campaigns, strengthen the voice and chose of impacted groups, and excite researchers, policymakers, and industry practitioners to work against the harms of AI.
 
 ---
 
