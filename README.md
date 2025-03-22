@@ -32,6 +32,7 @@
 
 * How to clone the repository
 * How to install dependencies
+
   !pip install ultralytics
 * How to set up the environment
 * How to access the dataset(s)
