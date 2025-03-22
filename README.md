@@ -6,7 +6,7 @@
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
 | Dakota Chang | @dakotacsk |  |
-| Sarah Cadet | @SarahCadet |  |
+| Sarah Cadet | @SarahCadet | Created a branched, multi-input model that was used for the initial submission with 5% accuracy.|
 | Blair Kuzniarek | @bkuzniarek |  |
 | Khushi Rajoria | @krajoria |  |
 | Michaela Fox | @mfox0914 |  |
