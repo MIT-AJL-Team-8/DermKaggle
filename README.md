@@ -31,6 +31,12 @@
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
 * How to clone the repository
+
+1. Within the DermKaggle repository, in the Code tab, click of the green Code button
+2. When you see a pop-up, ensure that you are within the Local tab
+3. Copy the HTTPS link
+4. Run git clone <link> on your preferred IDE terminal
+
 * How to install dependencies
 
   !pip install ultralytics
