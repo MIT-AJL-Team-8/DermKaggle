@@ -56,7 +56,9 @@ This Kaggle competition was presented through a collaboration between Break Thro
 
 ## **📊 Data Exploration**
 
-The dataset used is a subset of the FitzPatrick17k dataset, a labeled set of ~17,000 images of various serious and cosmetically dermatological conditions across a variety of of skin tones that are scored through the FitzPatrick skin tone scale (FST). This set contains around 4,500 images from the dataset and represents 21 skin conditions (out of over 100). The subset is used in order to have a more manageable and satisfying classification problem while maintaining appropriate amount of representation issues.* Data exploration and preprocessing approaches
+The dataset used is a subset of the FitzPatrick17k dataset, a labeled set of ~17,000 images of various serious and cosmetically dermatological conditions across a variety of of skin tones that are scored through the FitzPatrick skin tone scale (FST). This set contains around 4,500 images from the dataset and represents 21 skin conditions (out of over 100). The subset is used in order to have a more manageable and satisfying classification problem while maintaining appropriate amount of representation issues.
+
+* Data exploration and preprocessing approaches
 
 * Challenges and assumptions when working with the dataset(s)
 
