@@ -5,7 +5,7 @@
 
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
-| Dakota Chang | @dakotacsk |  |
+| Dakota Chang | @dakotacsk | Created YOLO model, performed parameter sweep, achieved 68% accuracy with submissions. |
 | Sarah Cadet | @SarahCadet | Created a branched, multi-input model that was used for the initial submission with 5% accuracy.|
 | Blair Kuzniarek | @bkuzniarek |  |
 | Khushi Rajoria | @krajoria |  |
@@ -96,8 +96,6 @@ Using this configuration, we improved our final model’s accuracy to 68%, a sig
 ---
 
 ## **📈 Results & Key Findings**
-
-## Results & Key Findings
 
 Our final model, trained with `yolov11x-cls.pt`, achieved significant improvements over the baseline. Below are key performance visualizations and outputs used during evaluation.
 
