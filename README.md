@@ -5,9 +5,12 @@
 
 | Name | GitHub Handle | Contribution |
 | ----- | ----- | ----- |
+| Dakota Chang | @dakotacsk |  |
+| Sarah Cadet | @SarahCadet |  |
+| Blair Kuzniarek | @bkuzniarek |  |
+| Khushi Rajoria | @krajoria |  |
+| Michaela Fox | @mfox0914 |  |
 | Sevinch Noori | @sevinchnoori |  |
-|  |  |  |
-|  |  |  |
 
 ---
 
