@@ -18,8 +18,7 @@
 
 * Built a YOLO model, achieving 68% accuracy
 * Achieved a ranking of 8th place on the final Kaggle Leaderboard
-* Used \[explainability tool\] to interpret model decisions
-* Implemented \[data preprocessing method\] to optimize results within compute constraints
+* Visualized performance metrics
 
 🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
 ---
