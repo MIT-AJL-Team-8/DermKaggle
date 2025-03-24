@@ -151,9 +151,3 @@ Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi
 
 ---
 
-## **📄 References & Additional Resources**
-
-* Cite any relevant papers, articles, or tools used in your project
-
----
-
