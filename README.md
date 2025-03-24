@@ -16,10 +16,8 @@
 
 ## **🎯 Project Highlights**
 
-**Example:**
-
-* Built a \[insert model type\] using \[techniques used\] to solve \[Kaggle competition task\]
-* Achieved an F1 score of \[insert score\] and a ranking of \[insert ranking out of participating teams\] on the final Kaggle Leaderboard
+* Built a YOLO model, achieving 68% accuracy
+* Achieved a ranking of 8th place on the final Kaggle Leaderboard
 * Used \[explainability tool\] to interpret model decisions
 * Implemented \[data preprocessing method\] to optimize results within compute constraints
 
