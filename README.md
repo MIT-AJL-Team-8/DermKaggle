@@ -38,11 +38,14 @@
 * How to install dependencies
 
   !pip install ultralytics
-* How to set up the environment
+
 * How to access the dataset(s)
 
 Access the data through this link: https://www.kaggle.com/competitions/bttai-ajl-2025/data
-* How to run the notebook or scripts
+
+* How to run the notebook
+
+Run yolo-model-ajl.ipynb to run data preprocessing, yolo model training, and prediction creation.
 
 ---
 
