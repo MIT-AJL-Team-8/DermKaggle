@@ -147,9 +147,9 @@ Check out [this guide](https://drive.google.com/file/d/1kYKaVNR\_l7Abx2kebs3AdDi
 
 **Address the following:**
 
-* What are some of the limitations of your model?
-* What would you do differently with more time/resources?
-* What additional datasets or techniques would you explore?
+* What are some of the limitations of your model? One limitation of our model is that it relies solely on visual data and does not incorporate metadata like patient age, lesion location, or Fitzpatrick skin type, which could provide helpful clinical context. Additionally, while we applied data augmentation to improve class balance, we are still limited by the inherent imbalance and underrepresentation of certain skin tones and conditions in the training dataset.
+* What would you do differently with more time/resources? With more time and resources, we would fine-tune the model using skin-tone-specific performance metrics to ensure equitable accuracy across groups. We would also explore ensemble models or hybrid architectures that combine image and metadata inputs for a more holistic understanding of each case.
+* What additional datasets or techniques would you explore? We’d seek out additional dermatology datasets that include high-quality images of darker skin tones to improve representation and robustness. Exploring synthetic data generation through tools like GANs could also help fill gaps in underrepresented conditions or tones. 
 
 ---
 
