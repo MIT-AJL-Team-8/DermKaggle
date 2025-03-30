@@ -9,7 +9,7 @@
 | Sarah Cadet | @SarahCadet | Created a branched, multi-input model that was used for the initial submission with 5% accuracy.|
 | Blair Kuzniarek | @bkuzniarek | Helped with data preprocessing, ExCeption model, and parts of ReadMe |
 | Khushi Rajoria | @krajoria |  |
-| Michaela Fox | @mfox0914 |  |
+| Michaela Fox | @mfox0914 | Helped with data preprocessing for YOLO Model. |
 | Sevinch Noori | @sevinchnoori | Building + training of ExCeption model, parts of ReadMe |
 
 ---
